@@ -5,3 +5,11 @@ a:hover {
 * {
     font-family: cursive
 }
+
+.toc a {
+    color:lightgreen
+}
+
+.toc a:hover {
+    color:blue
+}
