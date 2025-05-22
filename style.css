@@ -1,7 +1,7 @@
 a:hover {
-    color:lightgreen
+    color:red
 }
 
-p {
-    color:turquoise
+* {
+    font-family: cursive
 }
