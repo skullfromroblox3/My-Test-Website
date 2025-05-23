@@ -25,3 +25,11 @@ a:hover {
 .list1 {
     color: green
 }
+
+.hfooter a {
+    color:purple
+}
+
+.hfooter a:hover {
+    color:blue
+}
