@@ -13,3 +13,15 @@ a:hover {
 .toc a:hover {
     color:blue
 }
+
+.uses ol {
+    color: blue
+}
+
+#skull {
+    font-family: monospace;
+}
+
+.list1 {
+    color: green
+}
