@@ -33,3 +33,13 @@ a:hover {
 .hfooter a:hover {
     color:blue
 }
+
+.ewia h2,
+    p,
+      a {
+    color:blue
+    }
+
+.ewia a:hover {
+    color:turquoise
+}
