@@ -3,7 +3,8 @@ a:hover {
 }
 
 * {
-    font-family: cursive
+    font-family: cursive;
+    text-align: center;
 }
 
 .toc a {
