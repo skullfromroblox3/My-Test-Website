@@ -44,3 +44,7 @@ a:hover {
 .ewia a:hover {
     color:turquoise
 }
+
+.important {
+    border: 10px dotted red;
+}
