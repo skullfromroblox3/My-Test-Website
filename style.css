@@ -46,5 +46,5 @@ a:hover {
 }
 
 .important {
-    border: 10px dotted red;
+    border: 10px dashed red;
 }
